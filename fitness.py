@@ -30,8 +30,7 @@ def get_pop():
     return response.json()
 
 def pop_fit():
-        return 
-
+    return 
 
 
 if __name__ == '__main__':
@@ -57,10 +56,9 @@ if __name__ == '__main__':
     print(fitness_long)
             
     
-    ''' Code fitness solution below using multiprocessing and compilation '''
-    '''    - Use the variable fitness for the result '''
-    '''    - USe the function pop_fit to compute the fitness '''
-    
+    ''' Code fitness solution below using numpy, multiprocessing, and compilation '''
+    '''    - Use the variable 'fitness' for the result '''
+    '''    - Use the function 'pop_fit()' to compute the fitness '''
     
     
     
