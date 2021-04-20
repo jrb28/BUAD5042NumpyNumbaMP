@@ -16,5 +16,5 @@ if __name__ == '__main__':
     
     print(p.dot(q))
     
-''' create code below using numpy, multiprocessing, and numba to replicate dot product above '''
-'''   - a function may be required '''
+    ''' create code below using numpy, multiprocessing, and numba to replicate dot product above '''
+    '''   - a function may be required '''
